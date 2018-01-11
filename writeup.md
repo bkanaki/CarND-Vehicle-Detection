@@ -61,7 +61,7 @@ In the next step I created the train/test data to train a Linear SVM model. I al
 In order detect cars from an image, a sliding window with overlaps is implemented and features are extracted for each of them. I used two sliding windows of different size and different overlapings. An example of each of them is shown below on two test images.
 
 
-![sliding1](./output_images/output_14_1.png)
+![sliding1](./output_images/output_13_1.png)
 
 
 ![sliding2](./output_images/output_15_1.png)
